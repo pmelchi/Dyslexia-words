@@ -40,3 +40,13 @@ The following are the current dependencies for this application.
 ```
 pip install Flask
 ```
+
+## Run the application
+```
+python app.py
+```
+## Test the application
+Open a browser and go to the following url:
+```
+http://127.0.0.1:5000/
+```
